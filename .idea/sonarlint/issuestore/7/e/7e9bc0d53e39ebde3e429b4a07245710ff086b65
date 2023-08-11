@@ -1,0 +1,15 @@
+
+[	java:S1120"FDefine and throw a dedicated exception instead of using a generic one.(¹¢Ò„
+`	java:S112@"FDefine and throw a dedicated exception instead of using a generic one.(šÍ©¸ùÿÿÿÿ
+u
+java:S14882"_Immediately return this expression instead of assigning it to the temporary variable "apiList".(–‡¬Š
+[
+java:S11550">Use isEmpty() to check whether the collection is empty or not.(¹¢Ò„8‚ÈÒö1
+_
+java:S11178"DRename "attendanceEntity" which hides the field declared at line 24.(Œã²ìÿÿÿÿÿ
+_
+java:S1117B"DRename "attendanceEntity" which hides the field declared at line 24.(Œã²ìÿÿÿÿÿ
+_
+java:S1117M"DRename "attendanceEntity" which hides the field declared at line 24.(øƒ½ûúÿÿÿÿ
+O
+java:S1068"4Remove this unused "attendanceEntity" private field.(ÁŒ¤úÿÿÿÿ

@@ -1,0 +1,18 @@
+
+‚
+java:S1488-"gImmediately return this expression instead of assigning it to the temporary variable "teacherOptional".(ÍØª×ùÿÿÿÿ
+„
+java:S14888"iImmediately return this expression instead of assigning it to the temporary variable "teachersInSection".(¦îéùÿÿÿÿ
+‚
+java:S1488C"gImmediately return this expression instead of assigning it to the temporary variable "teacherOptional".(ÍØª×ùÿÿÿÿ
+‚
+java:S1488R"gImmediately return this expression instead of assigning it to the temporary variable "teacherOptional".(ÍØª×ùÿÿÿÿ
+h	java:S116"SRename this field "Teachers" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û«†í
+o
+java:S6204/"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8‡ß™ª1
+o
+java:S6204:"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8ß™ª1
+o
+java:S6204E"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8ß™ª1
+o
+java:S6204T"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8“ß™ª1

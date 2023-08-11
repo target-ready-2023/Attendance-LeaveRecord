@@ -1,0 +1,13 @@
+
+„
+java:S1488;"iImmediately return this expression instead of assigning it to the temporary variable "studentsInSection".(¢¯ºŸüÿÿÿÿ
+}
+java:S1488D"gImmediately return this expression instead of assigning it to the temporary variable "studentOptional".(±ÅŸ
+}
+java:S1488M"gImmediately return this expression instead of assigning it to the temporary variable "studentOptional".(±ÅŸ
+o
+java:S6204="RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8ºş˜ª1
+o
+java:S6204F"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8¾ş˜ª1
+o
+java:S6204O"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8Âş˜ª1

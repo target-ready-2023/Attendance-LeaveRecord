@@ -1,0 +1,10 @@
+
+m	java:S1178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°θ¨µ8§¶€Λ1
+p	java:S116""TRename this field "IsPresent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ίεδ8΄¶€Λ1
+^	java:S1078"BConstructor has 11 parameters, which is greater than 7 authorized.(°θ¨µ8µ¶€Λ1
+[
+java:S1874"9Remove this use of "SnakeCaseStrategy"; it is deprecated.(’΄ύÿÿÿÿ8ηƒ™ϊ1
+I
+java:S11728",Remove this unused method parameter "hours".(°θ¨µ8Έ¶€Λ1
+e
+java:S1128"HRemove this unused import 'com.fasterxml.jackson.annotation.JsonIgnore'.(ώ‘‹„8™„™ϊ1

@@ -1,0 +1,5 @@
+
+p	java:S116"ORename this field "Date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ¬Ë–ÿÿÿÿÿ8ÌŠÓÒ1
+p	java:S116"TRename this field "IsPresent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßåäŠ8ÍŠÓÒ1
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÃÏÉÖ8³¹…Ö1
